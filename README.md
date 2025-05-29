@@ -10,8 +10,8 @@ Deficiency
 
 Bug Fixed
 
--Icon Bugs
+- Icon Bugs
 
 More Bugs
 
--Jump Error
+- Jump Error
