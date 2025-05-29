@@ -2,11 +2,11 @@
 
 A Flappy Bird Sequel But The Character Is Young Among Us
 
-Deficiency
+Bugs
 
 - Icon Bugs
 
-# Flappy-Sus 1.1
+# Flappy-Sus-1.1
 
 Bug Fixed
 
